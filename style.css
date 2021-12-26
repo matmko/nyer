@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color:DodgerBlue;
+padding:10px
+
+}
+ 
+nav a{
+ background-color:Aqua;
+ padding:1px; 
+ text-decoration: none ;
+ border-radius:25px;
+}
+nav {
+ text-align:center ;
+
+}
+h2 {
+background-color:Tomato ;
+padding:10px;
+border-radius:25px;
+}
+p {
+background-color:Orange;
+border-radius:30px;
+}
+h1   { 
+background-color:Red;
+border-radius:30px;
+}
